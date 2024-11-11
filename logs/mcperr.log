@@ -1,0 +1,24 @@
+01:49:31 - !! Updates available. Please run updatemcp to get them. !!
+01:49:31 - !! Modified jar detected. Unpredictable results !!
+01:50:28 - 'runtime\bin\applydiff.exe -p1 -u -i ..\..\temp\temp.patch -d src\minecraft' failed : 1
+01:50:28 - 
+01:50:28 - == ERRORS FOUND ==
+01:50:28 - When decompiling with ModLoader a single hunk failure in RenderBlocks is expected and is not a problem
+01:50:28 - 
+01:50:28 - 1 out of 1 hunk FAILED -- saving rejects to file 'net\minecraft\src\RenderBlocks.#'
+01:50:28 - ==================
+01:50:28 - 
+01:50:50 - !! Missing server jar file. Aborting !!
+02:03:50 - !! Can not find server sources, try decompiling !!
+02:04:08 - !! Can not find server md5s !!
+13:31:08 - !! Can not find server sources, try decompiling !!
+13:31:35 - !! Can not find server md5s !!
+14:45:35 - !! Can not find server sources, try decompiling !!
+11:46:43 - !! Can not find server sources, try decompiling !!
+15:25:43 - !! Can not find server sources, try decompiling !!
+15:26:19 - !! Can not find server md5s !!
+17:59:39 - !! Can not find server sources, try decompiling !!
+18:00:19 - !! Can not find server md5s !!
+13:44:44 - !! Can not find server sources, try decompiling !!
+13:45:04 - !! Can not find server md5s !!
+22:57:16 - !! Can not find server sources, try decompiling !!
