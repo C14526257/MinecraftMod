@@ -22,3 +22,20 @@
 13:44:44 - !! Can not find server sources, try decompiling !!
 13:45:04 - !! Can not find server md5s !!
 22:57:16 - !! Can not find server sources, try decompiling !!
+18:33:41 - '"C:\Program Files\Java\jdk1.8.0_202\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\l...' failed : 1
+18:33:41 - FATAL ERROR
+Traceback (most recent call last):
+  File "runtime\startclient.py", line 30, in startclient
+  File "F:\ChromeDownloads\MinecraftMod-main\MinecraftMod-main\runtime\commands.py", line 1064, in startclient
+    self.runmc(forkcmd)
+  File "F:\ChromeDownloads\MinecraftMod-main\MinecraftMod-main\runtime\commands.py", line 1104, in runmc
+    raise CalledProcessError(process.returncode, forkcmd, output)
+CalledProcessError: Command '"C:\Program Files\Java\jdk1.8.0_202\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\lib;..\lib\*;..\jars\bin\minecraft.jar;..\jars\bin\jinput.jar;..\jars\bin\lwjgl.jar;..\jars\bin\lwjgl_util.jar" -Djava.library.path=..\jars\bin\natives Start' returned non-zero exit status 1
+18:33:56 - !! Can not find server sources, try decompiling !!
+14:44:25 - !! Can not find server sources, try decompiling !!
+14:46:13 - !! Can not find server md5s !!
+15:08:14 - !! Can not find server sources, try decompiling !!
+15:09:20 - !! Can not find server md5s !!
+17:09:28 - !! Can not find server md5s !!
+17:10:43 - !! Can not find server sources, try decompiling !!
+17:12:03 - !! Can not find server md5s !!

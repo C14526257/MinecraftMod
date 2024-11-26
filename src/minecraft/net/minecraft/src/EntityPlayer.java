@@ -578,12 +578,13 @@ public abstract class EntityPlayer extends EntityLiving
         	inventory.dropAllItems();
         }
         
+		/*
         if (isWet())
         {
         	 attackEntityFrom(DamageSource.onFire, 1);
         }
 
-        
+        */
         
         
     }
@@ -1587,9 +1588,7 @@ public abstract class EntityPlayer extends EntityLiving
         {
             addExhaustion(0.2F);
         }
-        health-=0.1;
-        worldObj.setBlockWithNotify((int)posX-1, (int)posY-1, (int)posZ, Block.tnt.blockID);
-        worldObj.setBlockWithNotify((int)posX-1, (int)posY-1, (int)posZ-1, Block.fire.blockID);
+
     }
 
     /**
